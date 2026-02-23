@@ -1,15 +1,18 @@
-# Word Mutation Game
+### Word Mutation Game
+
+![Interface Screenshot](/img/interface.png)
 
 [**play now**](https://mutate.streamlit.app/)
 
-## Overview
+
+### Overview
 **Word Mutation** is a fun and challenging word puzzle.
 You start by entering any **word or sentence**, which is then **mutated** into a series of altered words.  
 Your goal? **Guess the original word(s)** from their mutated versions!
 
 ---
 
-## How to Play
+### How to Play
 1. Open the game: [https://mutate.streamlit.app/](https://mutate.streamlit.app/).
 2. Enter any **word or phrase** in the input field.
 3. The app will **mutate** your input into scrambled or transformed versions.
